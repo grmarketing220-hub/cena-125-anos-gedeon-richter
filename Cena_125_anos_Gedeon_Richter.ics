@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gedeon Richter//Cena 125 anos//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:gedeon-richter-125-cena-20261029@richter.cl
+DTSTAMP:20261006T000000Z
+DTSTART:20261029T200000
+DTEND:20261029T210000
+SUMMARY:Cena de Camaradería – 125 años Gedeon Richter
+LOCATION:Casa Piedra Eventos, Av. Las Flores 1300, Las Condes
+DESCRIPTION:Con motivo de la celebración de los 125 años de Laboratorio Gedeon Richter en el mundo, tenemos el agrado de invitarle a nuestra Cena de Camaradería.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
